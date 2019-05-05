@@ -1,0 +1,5 @@
+C:\Users\ASUS N580VD\Documents\MultiFilteredDataGrid_Source\MultiFilteredDataGrid_Source\Common\bin\Debug\Common.dll
+C:\Users\ASUS N580VD\Documents\MultiFilteredDataGrid_Source\MultiFilteredDataGrid_Source\Common\bin\Debug\Common.pdb
+C:\Users\ASUS N580VD\Documents\MultiFilteredDataGrid_Source\MultiFilteredDataGrid_Source\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\ASUS N580VD\Documents\MultiFilteredDataGrid_Source\MultiFilteredDataGrid_Source\Common\obj\Debug\Common.dll
+C:\Users\ASUS N580VD\Documents\MultiFilteredDataGrid_Source\MultiFilteredDataGrid_Source\Common\obj\Debug\Common.pdb

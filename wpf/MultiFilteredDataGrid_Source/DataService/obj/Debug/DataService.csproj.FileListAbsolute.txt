@@ -1,0 +1,7 @@
+C:\Users\ASUS N580VD\Documents\MultiFilteredDataGrid_Source\MultiFilteredDataGrid_Source\DataService\bin\Debug\DataService.dll
+C:\Users\ASUS N580VD\Documents\MultiFilteredDataGrid_Source\MultiFilteredDataGrid_Source\DataService\bin\Debug\DataService.pdb
+C:\Users\ASUS N580VD\Documents\MultiFilteredDataGrid_Source\MultiFilteredDataGrid_Source\DataService\bin\Debug\Common.dll
+C:\Users\ASUS N580VD\Documents\MultiFilteredDataGrid_Source\MultiFilteredDataGrid_Source\DataService\bin\Debug\Common.pdb
+C:\Users\ASUS N580VD\Documents\MultiFilteredDataGrid_Source\MultiFilteredDataGrid_Source\DataService\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+C:\Users\ASUS N580VD\Documents\MultiFilteredDataGrid_Source\MultiFilteredDataGrid_Source\DataService\obj\Debug\DataService.dll
+C:\Users\ASUS N580VD\Documents\MultiFilteredDataGrid_Source\MultiFilteredDataGrid_Source\DataService\obj\Debug\DataService.pdb
